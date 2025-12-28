@@ -1,0 +1,115 @@
+# Sistem operasi
+### Windows ###
+Thumbs.db
+Desktop.ini
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Linux ###
+*~
+
+# Node.js (untuk proyek yang menggunakan Node.js)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Editor dan IDE
+### VS Code ###
+.vscode/
+
+### JetBrains ###
+.idea/
+
+### Sublime Text ###
+*.sublime-workspace
+*.sublime-project
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### Visual Studio ###
+.vs/
+.vs2019/
+.vs2017/
+.idea/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+*.egg-info/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+log/
+tmp/
+
+# PHP
+composer.lock
+vendor/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Flutter (untuk proyek Flutter)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Android (untuk proyek Android)
+build/
+*.iml
+*.apk
+*.aab
+local.properties
+
+# iOS (untuk proyek iOS)
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+
+# Swift (untuk proyek Swift)
+*.xcodeproj/project.xcworkspace/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+
+# Config dan file lainnya yang tidak perlu
+.env
+*.env
+*.sqlite
