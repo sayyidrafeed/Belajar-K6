@@ -113,3 +113,7 @@ DerivedData/
 .env
 *.env
 *.sqlite
+
+# K6 specific
+report.json
+test_results.json
